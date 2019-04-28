@@ -1,0 +1,48 @@
+
+.listStringPosition{
+	padding-top:20px;
+}
+.listFontSize{
+	font-size: 18px;
+}
+.proPicListSize {
+	width: 150px;
+	height: 150px;
+}	
+
+.MinSize{
+	min-width: 200px;
+}
+.rounded{
+	border-radius: 8%;
+}
+
+.buttonPosition{
+	margin-top:5px;
+}
+.postionCenter{
+	text-align: center;
+}
+
+.spanFontType{
+	font-weight: 700!important;
+	font-size: 17px!important;
+	line-height: 1.255!important;
+	font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+.subtotalNum{
+	color: #B12704!important;
+}
+
+.bkg{
+	border-radius: 4px;
+	padding: 15px;
+	background-color:#e7e8e1;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
